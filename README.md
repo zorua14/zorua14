@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available here [Click here](https://github.com/zorua14/)
+- 👨‍💻 All of my projects are available [here](https://github.com/zorua14/)
 
 - 📫 How to reach me **karthikeyanmuthu14@gmail.com**
 
