@@ -1,7 +1,6 @@
 <h1 align="center">Hello there,I am Karthikeyan Muthu</h1>
-<h3 align="center">A budding Junior iOS Developer</h3>
+<h3 align="center">A budding iOS Developer</h3>
 
-- 🔭 I’m currently working on [iOS Projects](https://github.com/zorua14/iOS)
 
 - 🌱 I’m currently learning **SwiftUI**
 
