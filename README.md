@@ -2,7 +2,7 @@
 <h3 align="center">A budding iOS Developer</h3>
 
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/zorua14/)
 
