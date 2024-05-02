@@ -1,8 +1,8 @@
 <h1 align="center">Hello there,I am Karthikeyan Muthu</h1>
-<h3 align="center">A budding iOS Developer</h3>
+<h3 align="center">A budding Mobile Application Developer</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/zorua14/)
 
